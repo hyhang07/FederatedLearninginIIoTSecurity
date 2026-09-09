@@ -7,7 +7,7 @@
 
 Official repository for the Final Year Project (FYP2) at **Universiti Tunku Abdul Rahman (UTAR)**:
 * **Project Title:** Federated Learning for IIoT Security: Decentralized Anomaly Detection
-* **Author:** Hong Yee Hang (22ACB03200)
+* **Author:** Hong Yee Hang
 * **Supervisor:** Dr. Nadeem Muhammad Waqas
 * **Faculty:** Faculty of Information and Communication Technology (FICT, Kampar Campus)
 * **Programme:** Bachelor of Information Technology (Honours) Communications and Networking
